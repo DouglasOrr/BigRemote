@@ -1,4 +1,4 @@
-package douglasorr.kidsremote
+package douglasorr.bigremote
 
 import android.os.Bundle
 import android.util.Log

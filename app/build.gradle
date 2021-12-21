@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "douglasorr.kidsremote"
+        applicationId "douglasorr.bigremote"
         minSdk 21
         targetSdk 30
         versionCode 1

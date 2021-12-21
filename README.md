@@ -1,4 +1,4 @@
-# Kids Remote
+# Big Remote
 
 Uses the Spotify SDK to allow basic playback control using full-screen buttons & hardware keyboard.
 

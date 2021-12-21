@@ -1,4 +1,4 @@
-package douglasorr.kidsremote
+package douglasorr.bigremote
 
 import org.junit.Test
 
